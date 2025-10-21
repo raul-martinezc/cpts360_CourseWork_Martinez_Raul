@@ -1,0 +1,45 @@
+Buffer size: 1 bytes
+real: 201.56, user: 18.50, sys: 179.84
+
+Buffer size: 2 bytes
+real: 95.06, user: 9.18, sys: 85.08
+
+Buffer size: 4 bytes
+real: 45.72, user: 4.62, sys: 40.91
+
+Buffer size: 8 bytes
+real: 23.03, user: 2.29, sys: 20.65
+
+Buffer size: 16 bytes
+real: 11.43, user: 1.15, sys: 10.22
+
+Buffer size: 32 bytes
+real: 5.65, user: 0.57, sys: 5.06
+
+Buffer size: 64 bytes
+real: 2.86, user: 0.28, sys: 2.55
+
+Buffer size: 128 bytes
+real: 1.43, user: 0.14, sys: 1.28
+
+Buffer size: 256 bytes
+real: 0.72, user: 0.07, sys: 0.64
+
+Buffer size: 512 bytes
+real: 0.39, user: 0.03, sys: 0.34
+
+Buffer size: 1024 bytes
+real: 0.22, user: 0.01, sys: 0.17
+
+Buffer size: 2048 bytes
+real: 0.10, user: 0.00, sys: 0.09
+
+Buffer size: 4096 bytes
+real: 0.10, user: 0.00, sys: 0.07
+
+Buffer size: 8192 bytes
+real: 0.07, user: 0.00, sys: 0.04
+
+Buffer size: 16384 bytes
+real: 0.05, user: 0.00, sys: 0.03
+
